@@ -2,8 +2,6 @@
 
 FastMCP server ([FastMCP](https://github.com/jlowin/fastmcp)) for tracking job applications: local JSON storage (`data/jobs.json`), Adzuna job search (with offline stubs), Prefab dashboard in MCP-capable hosts, and optional tooling for resume fit scoring, staleness deadlines, follow-up drafts, and company intel.
 
-**Assignment prompts:** Tier‑1 / Tier‑2 demo wording, host wiring, and trace capture commands are in **`ASSIGNMENT_PROMPTS.txt`**.
-
 ## Requirements
 
 - **Python ≥ 3.11**

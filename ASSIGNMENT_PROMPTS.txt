@@ -1,0 +1,22 @@
+# Tier 1 (full demo)
+Find software engineering jobs at Zomato using the tracker's job search, add at least one to my local tracker with status Applied and today's date, run the deadline check, score resume fit for that saved job, draft a short follow-up you could send, fetch company intel for Zomato, and show the Prefab dashboard with filter Applied and explain what each section shows.
+
+# Tier 2 (single sentence — names all seven tools)
+Use search_jobs, then crud_tracker to save a role, run check_deadlines, score_resume_fit for that job, draft_followup, get_company_intel for the employer, and push_dashboard with default_filter Applied.
+
+# Host setup (Prefab / MCP Apps)
+1) Create a virtualenv and install the project: pip install -e ".[dev]"
+2) Copy .env.example to .env — optional Adzuna keys; without them search_jobs uses offline fixtures.
+3) Run the server: python -m job_tracker_mcp.server
+4) Point your MCP-capable host (e.g. Claude Desktop with MCP Apps) at this stdio server using the same command.
+5) Structured tool tracing: set JOB_TRACKER_AGENT_LOG=1 before launching to log each tool BEGIN/END on stderr (UTC timestamps).
+6) Offline agent narrative: python -m job_tracker_mcp.agent_demo (forces tracing for a scripted Tier-1-style walkthrough).
+7) Capture a full transcript (PowerShell): $env:JOB_TRACKER_AGENT_LOG='1'; python -m job_tracker_mcp.server 2> mcp_trace.log
+
+# Claude Desktop (example mcpServers fragment — adjust path)
+# "job-tracker": {
+#   "command": "python",
+#   "args": ["-m", "job_tracker_mcp.server"],
+#   "cwd": "C:\\\\Users\\\\YOU\\\\...\\\\job_app_tracker",
+#   "env": { "JOB_TRACKER_AGENT_LOG": "1" }
+# }

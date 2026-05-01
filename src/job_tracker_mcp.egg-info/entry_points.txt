@@ -1,0 +1,2 @@
+[console_scripts]
+job-tracker-mcp = job_tracker_mcp.server:main

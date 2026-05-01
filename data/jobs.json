@@ -1,0 +1,249 @@
+{
+  "jobs": [
+    {
+      "company": "Zomato",
+      "title": "Software Engineer — Platform",
+      "status": "Applied",
+      "applied_date": "2026-04-29",
+      "jd": "Build scalable services, Python/Go, distributed systems.",
+      "id": "895b963c-a368-4019-a221-1e1318904940"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Empnéo ICT",
+      "status": "Open",
+      "applied_date": null,
+      "jd": "Lead Data Scientist — Analytics & Automation Lead / Principal | Education / EdTech | 8 years About the Role We are looking for a seasoned Lead Data Scientist to own the design and delivery of scalable data science solutions across our EdTech platform. You will drive analytical strategy, build robust ML pipelines, and champion automation to enable data-led decision making at scale.",
+      "id": "8a6836b7-7888-496c-9461-e18c41bad3ce",
+      "fit_percent": 60.0
+    },
+    {
+      "title": "Data Scientist",
+      "company": "ADM",
+      "status": "Interview",
+      "applied_date": null,
+      "jd": "Data Scientist Bengaluru, India Position Summary: The Data Scientist will lead the development of data-driven solutions by leveraging traditional data science techniques and recent advancements in Generative AI to bring value to ADM. The role is integral to the Digital & Innovation team, driving rapid prototyping efforts, collaborating with cross-functional teams, and developing innovative approaches to solve business problems.",
+      "id": "50aa24a5-bece-44f6-b168-d138ba069471"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "v4c.ai",
+      "status": "Open",
+      "applied_date": null,
+      "jd": "Overview: The Data Scientist supports the development and implementation of data models, focusing on Machine Learning, under the supervision of more experienced scientists, contributing to the team’s innovative projects. Job Description: Assist in the development of Machine Learning models and algorithms, contributing to the design and implementation of data-driven solutions.",
+      "id": "c66672c2-59a8-4998-9aaa-450d1a34fad7",
+      "fit_percent": 30.0
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Kotak Mahindra Bank",
+      "status": "Open",
+      "applied_date": null,
+      "jd": "Hiring for Data Scientist Role Work location: Bangalore Exp Range: 4 to 10 Yrs Only Notice Period: Up to 45 Days The Data Scientist role within the team involves deploying projects from conception to actionable insights, developing credit risk scorecards, building behavioral models and impact in the banking business.",
+      "id": "28b7d14c-c555-47f7-9dc7-510df23c5126",
+      "fit_percent": 30.0
+    },
+    {
+      "title": "Data Scientist",
+      "company": "AjnaLens",
+      "status": "Open",
+      "applied_date": null,
+      "jd": "Namaskaram! AjnaLens is looking for a Data Scientist to join our Product Engineering team at Thane (Maharashtra – India). The ideal candidate should have strong engineering foundations and hands-on experience in building predictive models, statistical analyses, and production-ready data science solutions.",
+      "id": "dfa33b00-6666-4c14-bbde-a02ec80b0a02"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "UptimeAI Inc.",
+      "status": "Offer",
+      "applied_date": null,
+      "jd": "About UptimeAI: UptimeAI is leading the way in predictive analytics and AI-driven solutions to optimize operational uptime and reduce downtime for industrial and enterprise clients.",
+      "id": "1ae818a0-57ca-4269-af99-700bdb187dfb"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "TP",
+      "status": "Interview",
+      "applied_date": null,
+      "jd": "Job Role: Jr/Sr Data Scientist WFH- Permanent Educational Background Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, Applied Mathematics, or related field. Experience 3 years of experience in applied data science, analytics, or AI research.",
+      "id": "73b7c057-a2cc-4e3f-9957-0b57b6af1daf"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Tata Consultancy Services",
+      "status": "Interview",
+      "applied_date": null,
+      "jd": "Role- Data scientist Year of Experience- 10 to 18 years Location-Pan India Required Skill set- Python, PySpark, ML-Ops, NLP, AWS/ GCP/ Azure Data Scientist.",
+      "id": "ff98a0d5-324d-4865-8368-55c24134483a",
+      "fit_percent": 40.0
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Thales",
+      "status": "Interview",
+      "applied_date": null,
+      "jd": "About the Company We are looking for a skilled Data Scientist / AI Engineer with strong experience in Data Science, AI, and Generative AI on Databricks.",
+      "id": "4006f7a1-8fae-4ee6-ad39-7f162542bc12"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Questhiring",
+      "status": "Open",
+      "applied_date": null,
+      "jd": "Job Title: Data Scientist (3–6 Years) Location: Bangalore / Gurgaon CTC: ₹40–45 LPA Experience: 3–6 Years Education: Tier 1 Institutes Only.",
+      "id": "b888b860-6764-4759-aff1-d6b1635d986f"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "LTIMindtree",
+      "status": "Open",
+      "applied_date": null,
+      "jd": "Job Title- AI/ML GenAI Data scientist Location: PAN India Experience: 4 to 8 Years.",
+      "id": "ca444c9f-d4ed-49fe-b4a4-155278931c2a",
+      "fit_percent": 80.0
+    },
+    {
+      "title": "AI Lead / Architect",
+      "company": "ITC Infotech",
+      "status": "Applied",
+      "applied_date": "",
+      "jd": "Seeking an experienced AI Lead Architect with 10 years in GenAI and Agentic AI solutions.",
+      "id": "a23cfb56-c124-49a9-8b33-7b3750ba94ef"
+    },
+    {
+      "title": "SSE - AI",
+      "company": "Netcore Unbxd",
+      "status": "Applied",
+      "applied_date": "",
+      "jd": "Join a leading AI-powered product discovery platform with 3-7 years of experience.",
+      "id": "90dc9038-08e3-4166-9a87-bbdf2261136c"
+    },
+    {
+      "title": "Senior AI/ML Engineer",
+      "company": "Adecco",
+      "status": "Applied",
+      "applied_date": "",
+      "jd": "Design and deploy AI/ML systems with 4-7 years of experience required.",
+      "id": "3bb59918-8502-4842-8653-c5210139ab35"
+    },
+    {
+      "title": "AI/ML Engineer",
+      "company": "AlifCloud IT Consulting Pvt. Ltd.",
+      "status": "Applied",
+      "applied_date": "",
+      "jd": "Looking for a skilled AI/ML Engineer with 2-6 years of experience.",
+      "id": "0e005faa-8336-4037-b723-71016485f7aa"
+    },
+    {
+      "title": "Vice President, Product Engineering Lead – Agentic AI",
+      "company": "Genpact",
+      "status": "Applied",
+      "applied_date": "",
+      "jd": "Lead the transformation to Agentic AI solutions.",
+      "id": "44f8afec-7263-4d0c-8419-cd3b6098b3d4"
+    },
+    {
+      "title": "Head of India Innovation & Product Strategy Lead for AI Platforms",
+      "company": "State Street",
+      "status": "Applied",
+      "applied_date": "",
+      "jd": "Responsible for leading innovation and executing AI strategy.",
+      "id": "4ae6afa2-26f7-4422-9cff-c0db4c1f9861"
+    },
+    {
+      "title": "Product Manager",
+      "company": "Pinegap",
+      "status": "Applied",
+      "applied_date": "",
+      "jd": "Lead AI product initiatives from definition to execution.",
+      "id": "59798ede-a99d-4ad7-8d9e-5a57b17a8776"
+    },
+    {
+      "title": "AI Lead / Architect",
+      "company": "ITC Infotech",
+      "status": "Applied",
+      "applied_date": "2023-10-20",
+      "jd": "AI lead / Architect Location: Bangalore Mode: Hybrid Role Overview: We are seeking an experienced AI Lead Architect with 10 years of expertise in designing and delivering enterprise-grade GenAI and Agentic AI solutions across IT and Business Operations.",
+      "id": "1a7b2f0e-d244-406c-a7df-4c6269f8bb5e"
+    },
+    {
+      "title": "SSE - AI",
+      "company": "Netcore Unbxd",
+      "status": "Applied",
+      "applied_date": "2023-10-20",
+      "jd": "SSE- AI Experience: 3–7 Years Location: Bangalore About Netcore Unbxd Netcore Unbxd is a leading AI-powered product discovery platform.",
+      "id": "d7dc6f78-5617-42fc-8a3c-da4d1ae4430a"
+    },
+    {
+      "title": "Senior AI/ML Engineer",
+      "company": "Adecco",
+      "status": "Applied",
+      "applied_date": "2023-10-20",
+      "jd": "We are currently hiring for the position of “Senior AI/ML Engineer” for a leading product-based company.",
+      "id": "6e21fd48-5cc8-40a8-bbbc-76a62cc2c11c"
+    },
+    {
+      "title": "AI/ML Engineer",
+      "company": "AlifCloud IT Consulting Pvt. Ltd.",
+      "status": "Applied",
+      "applied_date": "2023-10-20",
+      "jd": "Job Title: AI/ML Engineer Location: Remote Experience: 2–6 Years Department: AI Solutions Employment Type: Full-time.",
+      "id": "c37c1b3f-35d1-457c-913d-bdaf8609b3e3"
+    },
+    {
+      "title": "Vice President, Product Engineering Lead – Agentic AI",
+      "company": "Genpact",
+      "status": "Applied",
+      "applied_date": "2023-10-20",
+      "jd": "Inviting applications for the role of Vice President, Product Engineering Lead - Agentic AI.",
+      "id": "77e9496b-a959-4e8d-992b-c319cc51acf5"
+    },
+    {
+      "title": "AI Engineer / AI Developer (Generative AI, ML, Agentic AI)",
+      "company": "VSquare Systems Pvt. Ltd.",
+      "status": "Applied",
+      "applied_date": "2023-10-10",
+      "jd": "AI Engineer / AI Developer (Generative AI, ML, Agentic AI) Company: Vsquare Systems Pvt Ltd Positions: 10 Location: Pune/Bangalore Experience: 3 - 6 years Joining: Immediate – 2 weeks Role Overview Vsquare Systems Pvt Ltd is hiring experienced AI Engineers who have built and delivered real AI solutions in production environments . This role is not suited for candidates who have only worked on demos, academic projects, or basic API integrations . We are looking for engineers who have designed, b…",
+      "id": "b1f384f1-358d-45fe-b999-9c8b44eb50c8"
+    },
+    {
+      "title": "AI Designer",
+      "company": "LWYD Interactive",
+      "status": "Applied",
+      "applied_date": "2023-10-10",
+      "jd": "Role: AI Designer Overview: We're looking for an AI Designer who lives at the intersection of creativity and AI technology. You should be fluent in the latest AI generation tools and able to turn ideas into polished visual content, both static and motion. Required Skills: AI Generation Tools: Krea - Advanced proficiency in AI image generation and real-time creation. Kling - Video generation and AI motion capabilities. Runway - Multi-modal AI tools for video, image, and creative workflows. Stron…",
+      "id": "0b8352d7-432e-4153-9034-dd2cb3108cb3"
+    },
+    {
+      "title": "AI Engineer",
+      "company": "Mancer Consulting Services",
+      "status": "Applied",
+      "applied_date": "2023-10-10",
+      "jd": " We’re Hiring: AI-Powered Legacy Modernization Architect Are you passionate about transforming legacy systems into future-ready, intelligent platforms? We are looking for a visionary AI-Powered Legacy Modernization Architect to lead the strategic evolution of core enterprise technology systems.  What You’ll Do: • Drive an AI-led modernization roadmap to transform legacy applications into scalable, cloud-native architectures • Leverage Generative AI & ML to analyze, document, and refactor comple…",
+      "id": "c8dbb96f-b5f6-49f1-ac0d-4330cdfd15da"
+    },
+    {
+      "title": "AI Engineer (LLM / Generative AI)",
+      "company": "HCLTech",
+      "status": "Applied",
+      "applied_date": "2023-10-10",
+      "jd": "AI Engineer (LLM / Generative AI) Role Summary The AI Engineer will design, build, deploy, and operate production-grade Large Language Model (LLM) solutions. This role focuses on engineering rigor—turning LLM capabilities into reliable, scalable, and secure enterprise applications, and continuously improving them based on performance, cost, and user feedback. Key Responsibilities • Design and build LLM-powered applications using proprietary and open-source models. • Implement prompt engineering…",
+      "id": "57e6ced5-79e8-4121-b146-c068beb5896b"
+    },
+    {
+      "title": "AI Artist",
+      "company": "Ashoksangireddy",
+      "status": "Applied",
+      "applied_date": "2023-10-10",
+      "jd": "I'm looking for someone to sit with me all day and play with every new Gen AI tool out there. We'll be making AI ads and AI films together, both for my content and for other experiments we want to run. What you'll do Build AI ads and AI films alongside me. Test every new model the moment it drops. Push outputs until they stop looking like generic AI work and start looking like something worth shipping. What you get Unlimited free access to every AI tool you'd want to use. Pay above market. A se…",
+      "id": "b910f787-436d-4627-8238-6d57acbeeebb"
+    },
+    {
+      "title": "AI Tester",
+      "company": "LTIMindtree",
+      "status": "Applied",
+      "applied_date": "2023-10-10",
+      "jd": "Skills : AI Tester Experience : 12 Years Location : All LTIM Office Key Responsibilities Functional & Model Testing Design and execute test cases for AI/ML models, including classification, NLP, recommendation, and generative AI systems Validate model outputs for accuracy, consistency, and expected behavior across diverse inputs Perform regression testing after model updates, retraining cycles, or data changes Prompt & LLM Testing Develop and maintain prompt test libraries for large language mo…",
+      "id": "ef075f81-e706-4e10-b5ab-3a7a64112070"
+    }
+  ]
+}
